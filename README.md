@@ -62,7 +62,7 @@ python app.py
 ---
 
 ## Screenshots
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/fc71b4f3-c205-40d5-815d-ef45baebdc85" />
+<img width="1911" height="950" alt="image" src="https://github.com/user-attachments/assets/5413c301-8107-42bb-adf8-e78a11191059" />
 
 
 ---
